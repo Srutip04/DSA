@@ -157,3 +157,6 @@ int main()
 
 	return 0;
 }
+/*1st Polynomial:- 3x^3+6x^1-9
+2nd Polynomial:- 9x^3-8x^2+7x^1+2
+Resultant Polynomial:- 27x^6-24x^5+75x^4-123x^3+114x^2-51x^1-18*/
