@@ -125,3 +125,7 @@ int main()
 
 	return 0;
 }
+/*Doubly linked list before deletion:
+10 8 4 2 5
+Doubly linked list after deletion:
+10 4 2 5*/
