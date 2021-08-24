@@ -95,4 +95,4 @@ int main()
 	list.printList(list.head);
 }
 
-// This code is contributed by Pratham76
+
