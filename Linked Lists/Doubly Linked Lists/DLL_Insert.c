@@ -105,3 +105,10 @@ int main()
 	getchar();
 	return 0;
 }
+/*Test Cases
+Created DLL is: 
+Traversal in forward direction 
+ 4  8  1  7 
+Traversal in reverse direction 
+ 7  1  8  4
+ */
