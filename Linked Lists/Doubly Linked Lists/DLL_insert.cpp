@@ -158,4 +158,8 @@ int main()
 	return 0;
 }
 
-
+/*Created DLL is:
+Traversal in forward direction
+ 1  7  8  6  4
+Traversal in reverse direction
+ 4  6  8  7  1*/
