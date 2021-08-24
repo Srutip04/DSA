@@ -97,4 +97,10 @@ int main()
 	return 0;
 }
 
-
+/*Original linked list 
+10 8 4 2 
+The reversed Linked List is 
+2 4 8 10
+Time Complexity: O(N), where N denotes the number of nodes in the doubly linked list.
+Auxiliary Space: O(1)
+*/
