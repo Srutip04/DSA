@@ -63,4 +63,10 @@ addPolynomials(head,head2);
 return 0;
 }
 
-
+/*Linked List
+ 5x^2 4x^1
+Linked List
+ 6x^2 4x^1
+Addition:
+ 11x^2  8x^1 
+Time Complexity: O(m + n) where m and n are number of nodes in first and second lists respectively.*/
