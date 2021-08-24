@@ -104,4 +104,7 @@ int main()
 	return 0;
 }
 
-
+/*
+Original Linked list 10 8 4 2 
+Modified Linked list 8
+*/
