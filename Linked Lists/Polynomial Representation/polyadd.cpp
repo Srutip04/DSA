@@ -132,3 +132,8 @@ int main()
 
 	return 0;
 }
+/*1st Number: 5x^2+4x^1+2x^0
+2nd Number: -5x^1-5x^0
+Added polynomial: 5x^2-1x^1-3x^0
+Time Complexity: O(m + n) where m and n are number of nodes in first and second lists respectively.
+*/
